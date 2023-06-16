@@ -8,4 +8,5 @@ The performance was satisfactory. A few examples are shown below:
 ![image](https://github.com/AlisherMyrgyyassov/MedNeXt-on-BRATS2021/assets/79082361/d1fcaed2-ef6f-4281-bc9d-7a3854d5a661)
 
 (1: Input image, 2: model prediction, 3: mask)
-total IOU score after 4 epochs of training is **0.741456698822253**
+total IOU score after 4 epochs of training is **0.75**
+total DSC score after 4 epochs of training is **0.84**
